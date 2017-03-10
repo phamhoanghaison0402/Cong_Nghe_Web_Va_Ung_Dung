@@ -1,0 +1,5 @@
+﻿+ Tài Khoản Admin : Tên tài khoản : admin
+		    Mật khẩu : 123
+
++ Tài Khoản Người dùng: Tên tài khoản : son
+		    Mật khẩu : 123
